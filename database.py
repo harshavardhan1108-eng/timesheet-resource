@@ -209,7 +209,7 @@ def seed_database(force_reseed=False):
          "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150", '["Python", "Cloud Architecture", "Team Lead", "DevOps"]',
          "+1 (555) 456-7890", "Austin, TX", "2023-03-10", "active"),
         
-        ("EMP-104", "Elena Rostova", "elena.r@acme.corp", "employee", "Senior Full-Stack Engineer", "Engineering", 85.0, 55.0, 40.0,
+        ("EMP-104", "Harsha vardhan", "elena.r@acme.corp", "employee", "Senior Full-Stack Engineer", "Engineering", 85.0, 55.0, 40.0,
          "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150", '["React", "TypeScript", "Python", "FastAPI", "PostgreSQL"]',
          "+1 (555) 567-8901", "Seattle, WA", "2024-02-01", "active"),
         
